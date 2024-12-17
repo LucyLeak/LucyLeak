@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://files.catbox.moe/arbakk.png"  />
+  <img width: auto; src="https://files.catbox.moe/arbakk.png"  />
 </div>
 
 ###
