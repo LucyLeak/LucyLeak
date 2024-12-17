@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://files.catbox.moe/rtkylv.svg"/>
+  <img src="https://files.catbox.moe/rtkylv.svg" height="auto">
 </div>
 
 ###
