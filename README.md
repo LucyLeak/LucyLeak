@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="left">Hey there!</h1>
 
-<!--
-**LucyLeak/LucyLeak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">I'm Lucy, a person who likes a bit of everything, currently focusing on my personal life.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="left" height="200" src="https://files.catbox.moe/socphq.jpg"  />
+
+###
+
+<p align="left">Constant laziness, usually working a lot, but always active to talk. I'm forgetful and also very lost when it comes to starting conversations.<br><br>Reserved, I'm not someone who talks a lot, even if I like it, I prefer to keep to myself.</p>
+
+###
