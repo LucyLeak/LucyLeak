@@ -1,25 +1,56 @@
-<h1 align="center">🎀 Hi there! I'm Lucy (oﾟvﾟ)ノ</h1>
+<div align="center">
+  <h1>† L U C Y L E A K †</h1>
+  <p><code>digital ghosts • artificial minds • strange little worlds</code></p>
 
-###
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg">
+    <img alt="portrait" src="portrait-light.svg" width="330">
+  </picture>
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <br />
 
-###
+  <img src="https://komarev.com/ghpvc/?username=LucyLeak&style=flat-square&color=5b1d2a&label=VISITORS" alt="Profile visitors" />
 
-<p align="left">Welcome to my little corner of the internet~ I'm so glad you're here! 💖 I create AI bots and characters with lots of care, always aiming to make them feel special for you.</p>
+</div>
 
-###
+---
 
-<p align="left">If you ever find a bug or something that doesn't feel right, please let me know. I want everything to work perfectly for you!</p>
+### ── ABOUT ME
 
-###
+Welcome to my little corner of the internet.
 
-<p align="left">Don't think of it as professional, even though I'm spending money. I'm just here to entertain you and give you great stories.</p>
+I create AI bots and characters with care, building personalities and stories meant to feel a little more alive.
 
-###
+This is a personal space for experiments, creative projects, and things I make simply because I want to.
 
-<br clear="both">
+### ── TRANSMISSION LOG
 
-<h2 align="center">----</h2>
+If you encounter a bug or something that feels out of place, let me know. I'm always trying to make my projects better.
 
-###
+I'm not trying to turn everything into a business. Even when these projects cost me money, the goal is to create entertaining experiences and tell good stories.
+
+### ── GITHUB ARCHIVE
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucyLeak&show_icons=true&hide_border=true&bg_color=0D0B0D&title_color=8B2635&text_color=C8C3C5&icon_color=8B2635&ring_color=8B2635" alt="GitHub statistics" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucyLeak&layout=compact&hide_border=true&bg_color=0D0B0D&title_color=8B2635&text_color=C8C3C5" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucyLeak&bg_color=0D0B0D&color=C8C3C5&line=8B2635&point=C8C3C5&area=true&area_color=4A1520&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <sub><code>END OF TRANSMISSION</code></sub>
+  <br />
+  <sub>✞ made somewhere on the internet ✞</sub>
+
+</div>
