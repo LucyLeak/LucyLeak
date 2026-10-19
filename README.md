@@ -1,5 +1,16 @@
 <div align="center">
-  <h1>† L U C Y L E A K †</h1>
+<pre>
+ __              ___    ___             
+/\ \            /\_ \  /\_ \            
+\ \ \___      __\//\ \ \//\ \     ___   
+ \ \  _ `\  /'__`\\ \ \  \ \ \   / __`\ 
+  \ \ \ \ \/\  __/ \_\ \_ \_\ \_/\ \L\ \
+   \ \_\ \_\ \____\/\____\/\____\ \____/
+    \/_/\/_/\/____/\/____/\/____/\/___/ 
+                                        
+                                        
+</pre>
+
   <p><code>digital ghosts • artificial minds • strange little worlds</code></p>
 
   <picture>
@@ -39,10 +50,13 @@ I'm not trying to turn everything into a business. Even when these projects cost
 
 </div>
 
+
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucyLeak&bg_color=0D0B0D&color=C8C3C5&line=8B2635&point=C8C3C5&area=true&area_color=4A1520&hide_border=true" width="100%" alt="Contribution activity graph" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucyleak/lucyleak/main/dist/pet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucyleak/lucyleak/main/dist/pet-light.svg">
+    <img alt="my github pet" src="https://raw.githubusercontent.com/your-username/lucyleak/main/dist/pet.svg" width="100%">
+  </picture>
 </div>
 
 ---
