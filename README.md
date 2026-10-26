@@ -11,7 +11,7 @@
                                         
 </pre>
 
-  <p><code>digital ghosts • artificial minds • strange little worlds</code></p>
+  <p><code>I'm lazy</code></p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="portrait-dark.svg">
